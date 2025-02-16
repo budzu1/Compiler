@@ -2,7 +2,6 @@
 Developed a compiler for a custom imperative language created by my lecturer, utilizing FLEX for lexical analysis and BISON for parsing. This university project involved implementing syntax and semantic checks, and generating intermediate code. Still needs optimalization.
 
 Tomasz Budzyński
-272358
 
 main.cpp: zawiera funkcję main() i główną logikę uruchamiania kompilatora.
 parser.y: plik gramatyki Bison, definiujący parser.
